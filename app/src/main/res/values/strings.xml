@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneAuth</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
